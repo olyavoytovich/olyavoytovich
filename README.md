@@ -1,7 +1,11 @@
-Hi, I’m @olyavoytovich (Volha Vaitovich)
+### My name is Volha Vaitovich and I like to do beautiful things
 
-I’m currently learning HTML, CSS, JavaScript, React, Node.js, Figma
+I’m currently learning *HTML, CSS, JavaScript, React, Node.js, Figma*
 
-How to reach me:
-LinkedIn -- https://www.linkedin.com/in/volha-vaitovich-bb000722a/
-Gmail -- olga.voytovich14@gmail.com
+
+
+-----------------------------------------------------------------
+
+[LinkedIn](https://www.linkedin.com/in/volha-vaitovich-bb000722a/)
+
+olga.voytovich14@gmail.com
