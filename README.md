@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @olyavoytovich (Volha Vaitovich)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @olyavoytovich (Volha Vaitovich)
 
-<!---
-olyavoytovich/olyavoytovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m currently learning HTML, CSS, JavaScript, React, Node.js, Figma
+
+How to reach me:
+LinkedIn -- https://www.linkedin.com/in/volha-vaitovich-bb000722a/
+Gmail -- olga.voytovich14@gmail.com
