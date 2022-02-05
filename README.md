@@ -1,4 +1,4 @@
-### My name is Volha Vaitovich and I like to do beautiful things
+### My name is Volha Vaitovich and I like doing beautiful things
 
 I’m currently learning *HTML, CSS, JavaScript, React, Node.js, Figma*
 
